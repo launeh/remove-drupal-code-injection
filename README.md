@@ -11,6 +11,6 @@ With too many files to clean up manually, we removed the offending code with
 
 ```find . -name "*.php" | xargs sed -i 's/<*.*[[:digit:]]+*.*eval*.*[[:digit:]]+*.*>//g' *.php```
 
-,replaced the core files with the latest Drupal version and put the clean into version control.
+,replaced the core files with the latest Drupal files and put the cleaned up code into version control.
 
 Your mileage may vary. 
