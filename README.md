@@ -1,4 +1,4 @@
-# Remove Drupal Code injection
+# Remove Drupal code injection
 
 Had a client whose site got hit with a big code injection attack. There were many hundreds of compromised files and no clean copy of the code anywhere.
 
