@@ -1,6 +1,6 @@
 # Remove Drupal code injection
 
-Had a client whose site got hit with a big code injection attack. There were many hundreds of compromised files and no clean copy of the code anywhere.
+Client's drupal site got hit with a big code injection attack. There were many hundreds of compromised files and no clean copy of the code anywhere.
 
 The injected code looked something like this:
 
